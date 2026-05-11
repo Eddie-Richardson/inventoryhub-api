@@ -1,2 +1,5 @@
-# inventoryhub-api
-InventoryHub API — A FastAPI‑based inventory management backend with PostgreSQL, CRUD operations, and full project structure for products, database models, API routes, and testing.
+# InventoryHub API
+
+Backend service for managing product inventory using FastAPI, PostgreSQL, and Docker.
+
+Full documentation will be added at the end of the project.
